@@ -12,7 +12,7 @@
       "title": "The White Council",
       "content": "The White Council was a secret council of wizards in Middle-earth. It was formed in the Second Age to oppose Sauron. The council was composed of the most powerful wizards of Middle-earth, including Gandalf, Saruman, and Radagast. The White Council was instrumental in defeating Sauron in the Second Age, and it continued to oppose him in the Third Age.",
       "author": "Galadriel",
-      "published_at": "0831-07-17T06:24:50Z",
+      "publishedAt": "0831-07-17T06:24:50Z",
       "likes": 4
     },
     {
@@ -20,7 +20,7 @@
       "title": "The Fellowship of the Ring",
       "content": "The Fellowship of the Ring was a fellowship of nine companions who were tasked with destroying the One Ring. The fellowship was formed in Rivendell, and it included Frodo Baggins, Samwise Gamgee, Merry Brandybuck, Pippin Took, Gandalf, Aragorn, Legolas, Gimli, and Boromir. The fellowship was successful in destroying the One Ring, but at great cost.",
       "author": "Arwen",
-      "published_at": "0831-07-16T06:24:50Z",
+      "publishedAt": "0831-07-16T06:24:50Z",
       "likes": 420
     },
     {
@@ -28,7 +28,7 @@
       "title": "The Silmarils",
       "content": "The Silmarils were three jewels created by Fëanor, a great Elven-smith. The Silmarils were the most beautiful objects ever created in Middle-earth, and they were coveted by Morgoth, the Dark Lord. Morgoth stole the Silmarils, and the story of their recovery is one of the central themes of The Silmarillion.",
       "author": "Gandalf",
-      "published_at": "0831-07-15T06:24:50Z",
+      "publishedAt": "0831-07-15T06:24:50Z",
       "likes": 2,
       "comments": [
         "This is a great article!",
@@ -40,7 +40,7 @@
       "title": "The Riders of Rohan",
       "content": "The Riders of Rohan were a cavalry force of the Kingdom of Rohan. They were known for their fierceness and their skill in battle. The Riders of Rohan played a key role in the War of the Ring, and they were instrumental in the victory of the Free Peoples of Middle-earth.",
       "author": "Éomer",
-      "published_at": "0831-07-14T06:24:50Z",
+      "publishedAt": "0831-07-14T06:24:50Z",
       "likes": 1
     },
     {
@@ -48,7 +48,7 @@
       "title": "The Eagles of Manwë",
       "content": "The Eagles of Manwë were a race of giant eagles who lived in the Mountains of Aman. They were messengers of Manwë, the King of the Valar. The Eagles of Manwë played a key role in the War of the Ring, and they were instrumental in the victory of the Free Peoples of Middle-earth.",
       "author": "Gandalf",
-      "published_at": "0831-07-13T06:24:50Z",
+      "publishedAt": "0831-07-13T06:24:50Z",
       "likes": 0
     }
   ]

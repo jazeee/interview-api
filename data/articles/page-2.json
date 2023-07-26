@@ -12,7 +12,7 @@
       "title": "The Battle of Helm's Deep",
       "content": "The Battle of Helm's Deep was a major battle in the Third Age of Middle-earth. It was fought between the forces of Rohan and Saruman's Orcs at Helm's Deep, a fortress in Rohan. The battle was won by the Rohirrim, thanks to the timely arrival of Gandalf and the Riders of Rohan.",
       "author": "Éowyn",
-      "published_at": "1409-07-22T06:24:50Z",
+      "publishedAt": "1409-07-22T06:24:50Z",
       "likes": 0,
       "comments": [
         "This is a great article!",
@@ -24,7 +24,7 @@
       "title": "The Battle of Pelennor Fields",
       "content": "The Battle of Pelennor Fields was a major battle in the Third Age of Middle-earth. It was fought between the forces of Gondor and Mordor at the Pelennor Fields, outside of Minas Tirith. The battle was won by the forces of Gondor, thanks to the arrival of the Rohirrim and the Eagles of Manwë.",
       "author": "Galadriel",
-      "published_at": "1409-07-21T06:24:50Z",
+      "publishedAt": "1409-07-21T06:24:50Z",
       "likes": 1,
       "comments": [
         "This is a great article!",
@@ -36,7 +36,7 @@
       "title": "The Siege of Minas Tirith",
       "content": "The Siege of Minas Tirith was a major siege in the Third Age of Middle-earth. It was the siege of Minas Tirith, the capital of Gondor, by the forces of Mordor. The siege was lifted by the arrival of the Rohirrim and the Eagles of Manwë.",
       "author": "Arwen",
-      "published_at": "1409-07-20T06:24:50Z",
+      "publishedAt": "1409-07-20T06:24:50Z",
       "likes": 2
     },
     {
@@ -44,7 +44,7 @@
       "title": "The Battle of the Black Gates",
       "content": "The Battle of the Black Gates was a major battle in the Third Age of Middle-earth. It was fought between the forces of the Free Peoples of Middle-earth and the forces of Sauron at the Black Gates of Mordor. The battle was a stalemate, but it prevented Sauron from sending his forces to help his allies in the Battle of Pelennor Fields.",
       "author": "Gandalf",
-      "published_at": "1409-07-19T06:24:50Z",
+      "publishedAt": "1409-07-19T06:24:50Z",
       "likes": 3
     },
     {
@@ -52,7 +52,7 @@
       "title": "The Fall of Sauron",
       "content": "The Fall of Sauron was the final event of the Third Age of Middle-earth. It was the defeat of Sauron by the forces of the Free Peoples of Middle-earth at the Battle of Morannon. The defeat of Sauron marked the end of the War of the Ring and the beginning of a new era for Middle-earth.",
       "author": "Galadriel",
-      "published_at": "1409-07-18T06:24:50Z",
+      "publishedAt": "1409-07-18T06:24:50Z",
       "likes": 5
     }
   ]

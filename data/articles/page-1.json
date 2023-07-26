@@ -11,7 +11,7 @@
       "title": "The Fall of Gondolin",
       "content": "The Fall of Gondolin was a major event in the First Age of Middle-earth. It was the destruction of the city of Gondolin by Morgoth, the Dark Lord. The city was founded by Turgon, a son of Fingolfin, and was one of the greatest cities of the Noldor. It was hidden from Morgoth by a great spell, but he eventually found it and destroyed it.",
       "author": "Galadriel",
-      "published_at": "2942-07-26T06:24:50Z",
+      "publishedAt": "2942-07-26T06:24:50Z",
       "likes": 10
     },
     {
@@ -19,7 +19,7 @@
       "title": "The Battle of the Five Armies",
       "content": "The Battle of the Five Armies was a major battle in the Third Age of Middle-earth. It was fought between the Dwarves, Elves, Men, and Goblins of the Misty Mountains. The battle was caused by the Dwarves' attempt to reclaim their lost treasure from Smaug the Dragon. The battle ended with the death of Smaug and the defeat of the Goblins.",
       "author": "Eowyn",
-      "published_at": "2942-07-25T06:24:50Z",
+      "publishedAt": "2942-07-25T06:24:50Z",
       "likes": 5,
       "comments": [
         "This is a great article!",
@@ -31,7 +31,7 @@
       "title": "The Scouring of the Shire",
       "content": "The Scouring of the Shire was a series of events that took place in the Shire at the end of the Third Age of Middle-earth. It was a hobbit rebellion against the forces of Saruman, who had taken control of the Shire. The rebellion was led by Frodo Baggins and Samwise Gamgee, who had returned from their quest to destroy the One Ring. The Scouring of the Shire ended with the defeat of Saruman and the restoration of peace to the Shire.",
       "author": "Arwen",
-      "published_at": "2942-07-24T06:24:50Z",
+      "publishedAt": "2942-07-24T06:24:50Z",
       "likes": 3,
       "comments": [
         "I don't agree with this article.\nWe should have succeeded. - Wraiths Rule."
@@ -42,7 +42,7 @@
       "title": "The Last Alliance of Elves and Men",
       "content": "The Last Alliance of Elves and Men was a military alliance formed in the Second Age of Middle-earth to defeat Sauron. The alliance was led by Elendil, the High King of the Noldor, and Gil-galad, the High King of the Elves. The alliance was victorious in the War of the Last Alliance, but both Elendil and Gil-galad were killed in the battle.",
       "author": "Glorfindel",
-      "published_at": "2942-07-23T06:24:50Z",
+      "publishedAt": "2942-07-23T06:24:50Z",
       "likes": 1
     },
     {
@@ -50,7 +50,7 @@
       "title": "The Destruction of the One Ring",
       "content": "The Destruction of the One Ring was the final event of the Third Age of Middle-earth. It was the destruction of the One Ring by Frodo Baggins and Samwise Gamgee.",
       "author": "Galadriel",
-      "published_at": "2942-07-22T06:24:50Z",
+      "publishedAt": "2942-07-22T06:24:50Z",
       "likes": 0
     }
   ]
