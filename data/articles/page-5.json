@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "page": 5,
+    "pageCount": 1,
+    "totalCount": 21,
+    "previousPage": "/page-4.json"
+  },
+  "articles": [
+    {
+      "id": 21,
+      "title": "The One Ring",
+      "content": "The One Ring was a powerful magical artifact created by the Dark Lord Sauron. The Ring was one of the Three Rings of Power, and it was the most powerful of the Rings. The Ring gave its bearer great power, but it also corrupted them. The Ring was eventually destroyed by Frodo Baggins in the fires of Mount Doom.",
+      "author": "Elrond",
+      "published_at": "2023-07-12T06:24:50Z",
+      "likes": 1,
+      "comments": [
+        "The One Ring is one of the most iconic artifacts in all of fiction.\nIt is a powerful symbol of evil, corruption, and temptation.\nThe story of the Ring is a cautionary tale about the dangers of power and the importance of resisting temptation.",
+        "The One Ring is a fascinating object to study.\nIt is a complex and multi-faceted symbol, and it can be interpreted in many different ways.\nThe Ring can be seen as a representation of the dark side of human nature, or it can be seen as a symbol of the power of evil.",
+        "The One Ring is a reminder that even the smallest of objects can have great power.\nThe Ring was a small, unassuming object, but it had the power to corrupt and enslave entire peoples.\nIt is a warning to us all to be careful of the things we desire, and to make sure that our desires do not lead us down a dark path."
+      ]
+    }
+  ]
+}
