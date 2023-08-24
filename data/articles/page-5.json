@@ -3,7 +3,7 @@
     "page": 5,
     "pageCount": 5,
     "totalCount": 21,
-    "previousPage": "http://interview-api.jazeee.com/data/articles/page-4.json"
+    "previousPage": "http://interview-api.jazeee.com/data/articles/page-4-.json"
   },
   "articles": [
     {
