@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "page": 4,
+    "pageCount": 5,
+    "totalCount": 21,
+    "previousPage": "http://interview-api.jazeee.com/data/articles/page-3.json",
+    "nextPage": "http://interview-api.jazeee.com/data/articles/page-5.json"
+  },
+  "articles": [
+    {
+      "id": 16,
+      "title": "The Council of Erlond",
+      "content": "The Council of Erlond was a meeting of the Free Peoples of Middle-earth that was held in Rivendell in 2951 of the Third Age. The council was called to discuss the threat posed by the One Ring, and it was decided that the Ring must be destroyed. The council was attended by many important figures, including Gandalf, Elrond, Galadriel, and Aragorn.",
+      "author": "Elrond",
+      "publishedAt": "3020-07-12T06:24:50Z",
+      "likes": 5,
+      "comments": [
+        "Elves Rule, Y'all Drool."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Battle of the Last Alliance :+1+",
+      "content": "The Battle of the Last Alliance was a major battle in the Second Age of Middle-earth. It was fought between the forces of the Free Peoples of Middle-earth and the forces of Sauron at the Black Gates of Mordor. The battle was a victory for the Free Peoples, and it led to the downfall of Sauron.",
+      "author": "Gandalf",
+      "publishedAt": "3020-07-11T06:24:50Z",
+      "likes": 420420,
+      "comments": [
+        "This was amazing."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "The Fall of Gondolin",
+      "content": "The Fall of Gondolin was a major event in the First Age of Middle-earth. It was the destruction of the city of Gondolin by Morgoth, the Dark Lord. The city was founded by Turgon, a son of Fingolfin, and was one of the greatest cities of the Noldor. It was hidden from Morgoth by a great spell, but he eventually found it and destroyed it.",
+      "author": "Galadriel",
+      "publishedAt": "3020-07-10T06:24:50Z",
+      "likes": 3,
+      "comments": []
+    },
+    {
+      "id": 19,
+      "title": "The Breaking of the Fellowship",
+      "content": "The Breaking of the Fellowship was a major event in the Lord of the Rings trilogy. It was the point in the story where the Fellowship of the Ring was broken up, and the members of the Fellowship went their separate ways. The Breaking of the Fellowship was a turning point in the story, and it led to the final confrontation between Frodo and Sauron.",
+      "author": "Gandalf",
+      "publishedAt": "3020-07-09T06:24:50Z",
+      "likes": 0,
+      "comments": [
+        "This was indeed a sad time.\nLet's hope they get back together.",
+        ":cry:."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Battle of Five Armies",
+      "content": "The Battle of Five Armies was a major battle in the Third Age of Middle-earth. It was fought between the Dwarves, Elves, Men, and Goblins of the Misty Mountains. The battle was caused by the Dwarves' attempt to reclaim their lost treasure from Smaug the Dragon. The battle ended with the death of Smaug and the defeat of the Goblins.",
+      "author": "Gandalf",
+      "publishedAt": "3020-07-08T06:24:50Z",
+      "likes": 1
+    }
+  ]
+}
